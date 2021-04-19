@@ -1,4 +1,4 @@
-# start_template
+# Start template
 Template for vanilla(no framework) frontend projects
 
 # Description
